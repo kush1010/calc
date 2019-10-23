@@ -1,6 +1,14 @@
 a = int(input("enter a number: ")
 b = int(input("enter second number: ")
 
+a = int(input("enter a number: ")
+b = int(input("enter second number: ")
+
+operat = input("enter an operation: ")
+if (operat is +):
+      z = a+b
+=======
+
 operat = input("enter an operation: ")
 if (operat is /):
       z = a/
