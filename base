@@ -5,6 +5,10 @@ operat = input("enter an operation: ")
 if (operat is /):
       z = a/
 
+if (operat is -):
+      z = a-b
+
+
 if (operat is %):
       z = a%b
 
