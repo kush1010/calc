@@ -33,7 +33,11 @@ if (operat is *):
 
  print(your answer is z)
 
+// adding the functionality of computing mods.
 
-// we are creating a pull request so please have this in mind
-int f,d,s,a;
-f + d = s + a;
+int a,b,c;
+c = a%b;
+//the c will be the modulus so we can output the changes.
+cout<<c;
+
+
