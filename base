@@ -45,6 +45,11 @@ int a,b,c;
 c = a-b;
 cout<<c;
 
+//DIY23
+int a,b,c;
+c = a/b;
+cout<<c;
+
 
 
 
