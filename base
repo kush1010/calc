@@ -1,6 +1,12 @@
 a = int(input("enter a number: ")
 b = int(input("enter second number: ")
 
+
+operat = input("enter an operation: ")
+if (operat is +):
+      z = a+b
+  
+=======
 a = int(input("enter a number: ")
 b = int(input("enter second number: ")
 
@@ -26,3 +32,8 @@ if (operat is *):
 
 
  print(your answer is z)
+
+
+// we are creating a pull request so please have this in mind
+int f,d,s,a;
+f + d = s + a;
