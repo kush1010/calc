@@ -50,6 +50,11 @@ int a,b,c;
 c = a/b;
 cout<<c;
 
+//ANXOR23
+int a,b,c;
+c = a AND B A OR b ;
+cout<<c;
+
 
 
 
