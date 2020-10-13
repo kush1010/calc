@@ -40,4 +40,11 @@ c = a%b;
 //the c will be the modulus so we can output the changes.
 cout<<c;
 
+//subt-junc101
+int a,b,c;
+c = a-b;
+cout<<c;
+
+
+
 
